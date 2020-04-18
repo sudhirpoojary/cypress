@@ -1,2 +1,0 @@
-# cypress
-Cypress Automation
